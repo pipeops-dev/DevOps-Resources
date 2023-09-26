@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>DevOps Resources💡</title>
-</head>
 <body>
 <h1 align="center">DevOps Resources💡</h1>
 
@@ -25,15 +22,17 @@
 <table align="center">
   <tr>
     <th>Name</th>
-    <th>Creators</th>
-    <th>Platform</th>
-    <th>URL</th>
+    <th>Description</th>
+    <th>Creator</th>
+    <th>Type</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Resource 1</td>
-    <td>Resource 2</td>
-    <td>Resource 3</td>
-    <td>Resource 4</td>
+    <td>DevOps Tutorial for Beginners | Learn DevOps in 7 Hours</td>
+    <td>This Edureka DevOps Tutorial for Beginners will help you learn DevOps concepts and DevOps tools with examples and demos. You will understand how a DevOps pipeline can be imagined for existing infrastructure. Furthermore, it will cover different DevOps tools & phases. Below are the topics covered in this Full Course DevOps Tutorial for Beginners:</td>
+    <td><a href="https://www.edureka.co/">Edureka</a></td>
+    <td>Free</td>
+    <td><a href="https://youtu.be/hQcFE0RD0cQ?si=oi0FeAV-GZlZYh9D">Click</a></td>
   </tr>
 </table>
 
@@ -44,15 +43,17 @@
 <table align="center">
   <tr>
     <th>Name</th>
-    <th>Creators</th>
-    <th>Platform</th>
-    <th>URL</th>
+    <th>Description</th>
+    <th>Creator</th>
+    <th>Type</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Resource 1</td>
-    <td>Resource 2</td>
-    <td>Resource 3</td>
-    <td>Resource 4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -63,16 +64,18 @@
 <table align="center">
   <tr>
     <th>Name</th>
-    <th>Creators</th>
-    <th>Platform</th>
-    <th>URL</th>
+    <th>Description</th>
+    <th>Creator</th>
+    <th>Type</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Resource 1</td>
-    <td>Resource 2</td>
-    <td>Resource 3</td>
-    <td>Resource 4</td>
-  </tr
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 </body>
