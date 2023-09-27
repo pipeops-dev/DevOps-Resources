@@ -34,6 +34,17 @@
     <td>Free</td>
     <td><a href="https://youtu.be/hQcFE0RD0cQ?si=oi0FeAV-GZlZYh9D">Click</a></td>
   </tr>
+  <tr>
+    <td>Create cloud native apps with Azure and open-source software</td>
+    <td>Cloud-native apps represent a modern approach to app development, where software systems are designed with cloud scale and capabilities in mind. Cloud-native apps build on open source technologies where feasible, with a focus on architectural modularity. In focusing on open technologies, "Cloud Native", means flexibility of deployment target, while still being able to use Azure-specific services like Azure Cosmos DB and Azure Active Directory.
+
+This hands-on learning path covers the essentials of selecting components for cloud-native apps, building the integrations, and deploying to Azure.
+
+You'll create multiple services, processing both large scale of messages from devices and streaming data from IoT devices.</td>
+    <td><a href="#">Microsoft</a></td>
+    <td>Free</td>
+    <td><a href="https://learn.microsoft.com/en-us/training/paths/create-cloud-native-apps-with-azure-open-source/">Click</a></td>
+  </tr>
 </table>
 
 <!-- Intermediate -->
@@ -49,11 +60,11 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Microsoft Certified: Azure Administrator Associate</td>
+    <td>This certification is for candidates skilled in overseeing and enhancing an organization's Microsoft Azure environment, covering virtual networks, storage, compute, identity, security, and governance. As an Azure admin, you collaborate within a cloud infrastructure team, handling Azure networking, security, databases, app development, and DevOps. Proficiency in operating systems, networking, servers, and virtualization is crucial, along with hands-on experience in PowerShell, Azure CLI, Azure portal, Azure Resource Manager templates, and Microsoft Azure Active Directory (Azure AD) within Microsoft Entra.</td>
+    <td>Microsoft</td>
+    <td>Paid</td>
+    <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">Click</a></td>
   </tr>
 </table>
 
@@ -70,11 +81,24 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Microsoft Certified: DevOps Engineer Expert</td>
+    <td> DevOps engineers are developers or infrastructure administrators who also have subject matter        expertise in working with people, processes, and products to enable continuous delivery of value in organizations.
+
+  Responsibilities for this role include designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback.
+
+  DevOps engineers work on cross-functional teams that include developers, site reliability engineers, and Azure administrators.
+
+  Candidates for this certification must have experience with administering and developing in Azure, with strong skills in at least one of these areas. They should be familiar with both Azure DevOps and GitHub</td>
+    <td>Microsoft</td>
+    <td>Paid</td>
+    <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">Click</a></td>
+  </tr>
+  <tr>
+    <td>Microsoft Certified: Azure Developer Associate</td>
+    <td>This exam assesses your ability to engage in the entire development process, from requirements gathering to deployment and monitoring. Proficiency in Azure, including SDK, data management, APIs, authentication, and collaboration with diverse teams, is essential. You should have at least two years of professional development experience, programming skills in an Azure-supported language, and competence in Azure CLI and Azure PowerShell.</td>
+    <td>Microsoft</td>
+    <td>Paid</td>
+    <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/">Click</a></td>
   </tr>
 </table>
 
