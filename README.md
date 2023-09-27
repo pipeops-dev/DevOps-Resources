@@ -95,6 +95,13 @@ You'll create multiple services, processing both large scale of messages from de
     <td>Free</td>
     <td><a href="https://github.com/sottlmarek/DevSecOps">Click</a></td>
   </tr>
+  <tr>
+    <td>kubernetes-the-hard-way</td>
+    <td>Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.</td>
+    <td><a href="https://github.com/kelseyhightower">Kelsey Hightower</a></td>
+    <td>Free</td>
+    <td><a href="https://github.com/kelseyhightower/kubernetes-the-hard-way">Click</a></td>
+  </tr>
 </table>
 
 <!-- Professionals -->
