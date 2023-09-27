@@ -88,6 +88,13 @@ You'll create multiple services, processing both large scale of messages from de
     <td>Paid</td>
     <td><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">Click</a></td>
   </tr>
+  <tr>
+    <td>DevSecOps</td>
+    <td>Ultimate DevSecOps library</td>
+    <td><a href="https://github.com/sottlmarek">Marek Šottl</a></td>
+    <td>Free</td>
+    <td><a href="https://github.com/sottlmarek/DevSecOps">Click</a></td>
+  </tr>
 </table>
 
 <!-- Professionals -->
