@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <p>Welcome to your ultimate DevOps knowledge hub, proudly sponsored by <a href="https://www.pipeops.io/">PipeOps</a>. Explore a wealth of DevOps expertise all in one place.</p>
+  <p>Welcome to your ultimate DevOps knowledge hub, proudly sponsored by <a href="https://pipeops.io/">PipeOps</a>. Explore a wealth of DevOps expertise all in one place.</p>
 </div>
 
 <p align="center">Want to contribute? Read the <a href="CONTRIBUTING.md">guideline</a>.</p>
