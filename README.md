@@ -8,7 +8,6 @@
   <a href="#Beginners">Beginners</a> &#183; 
   <a href="#Intermediate">Intermediate</a> &#183; 
   <a href="#Professionals">Professionals</a> &#183;
-  <a href="#General">General</a>&#183;
 </p>
 
 <div align="center">
